@@ -45,6 +45,12 @@ The other objective of this update was to bring it here, to GitHub. Pastebin was
 Installing the configs
 -------
 
+**TF2 Launch options**
+
+Go to your TF2 launch options and add these; change the number after refresh to whatever your monitor's refresh rate is:
+
+`-novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noborder -refresh 240`
+
 **Download**
 
 To download the configs, click the green `Code` button above, then click `Download Zip` in the menu that pops up. Then, extract `Woolen-Configs-main.zip`, which should create a folder of the same name.
