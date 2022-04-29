@@ -107,10 +107,7 @@ tf
     ├── config.cfg
     ├── crouchjump.cfg
     ├── notalk.cfg
-    ├── recordingstuff.cfg
-    ├── scoreboard.cfg
-    ├── talk.cfg
-    └── user
+    ├── overrides
         ├── autoexec.cfg
         ├── demoman.cfg
         ├── engineer.cfg
@@ -121,6 +118,9 @@ tf
         ├── sniper.cfg
         ├── soldier.cfg
         └── spy.cfg
+    ├── recordingstuff.cfg
+    ├── scoreboard.cfg
+    └── talk.cfg
 ```
 Customization
 -------
