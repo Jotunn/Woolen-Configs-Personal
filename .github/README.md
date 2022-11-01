@@ -106,7 +106,6 @@ tf
     ├── antivirus.cfg
     ├── config.cfg
     ├── crouchjump.cfg
-    ├── notalk.cfg
     ├── overrides
         ├── autoexec.cfg
         ├── demoman.cfg
@@ -119,8 +118,7 @@ tf
         ├── soldier.cfg
         └── spy.cfg
     ├── recordingstuff.cfg
-    ├── scoreboard.cfg
-    └── talk.cfg
+    └── scoreboard.cfg
 ```
 Customization
 -------
